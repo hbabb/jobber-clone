@@ -16,7 +16,7 @@ export default antfu({
     arrowParens: "always",
     linebreaks: "unix",
   },
-  ignores: [".pnpm-store/**", "node_modules/**", "**/migrations/*", "docs/**"],
+  ignores: ["README.md", ".pnpm-store/**", "node_modules/**", "**/migrations/*", "docs/**"],
 }, {
   rules: {
     "vue/max-attributes-per-line": ["error", {
