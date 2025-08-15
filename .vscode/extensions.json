@@ -1,0 +1,34 @@
+{
+  "recommendations": [
+    // Code Quality & Linting
+    "dbaeumer.vscode-eslint",
+
+    // HTML/CSS Development
+    "ecmel.vscode-html-css",
+    "pranaygp.vscode-css-peek",
+    "formulahendry.auto-rename-tag",
+    "zignd.html-css-class-completion",
+
+    // Development Server
+    "ritwickdey.liveserver",
+
+    // Code Formatting & Visualization
+    "aaron-bond.better-comments",
+    "oderwat.indent-rainbow",
+    "usernamehw.errorlens",
+
+    // Documentation & Markdown
+    "davidanson.vscode-markdownlint",
+    "yzhang.markdown-all-in-one",
+
+    // Git Integration
+    "eamodio.gitlens",
+
+    // Productivity
+    "streetsidesoftware.code-spell-checker",
+    "christian-kohler.npm-intellisense",
+
+    // Visual Enhancements
+    "vscode-icons-team.vscode-icons"
+  ]
+}
